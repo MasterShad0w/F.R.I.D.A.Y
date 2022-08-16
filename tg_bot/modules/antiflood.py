@@ -125,6 +125,8 @@ __help__ = """
 
 *Admin only:*
  - /setflood <int/'no'/'off'>: enables or disables flood control
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "AntiFlood"
