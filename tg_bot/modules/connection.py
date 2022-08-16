@@ -153,6 +153,8 @@ Actions are available with connected groups:
  - /connect <chatid>: Connect to remote chat
  - /disconnect: Disconnect from chat
  - /allowconnect on/yes/off/no: Allow connect users to group
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Connections"
