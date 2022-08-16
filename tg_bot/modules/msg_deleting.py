@@ -91,6 +91,8 @@ __help__ = """
  - /del: deletes the message you replied to
  - /purge: deletes all messages between this and the replied to message.
  - /purge <integer X>: deletes the replied message, and X messages following it.
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Purges"
