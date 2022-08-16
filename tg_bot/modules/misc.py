@@ -425,6 +425,8 @@ __help__ = """
  - /markdownhelp: quick summary of how markdown works in telegram - can only be called in private chats.
  - /stickerid: reply to a sticker and get sticker id of that.
  - /getsticker: reply to a sticker and get that sticker as .png and image. 
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Misc"
