@@ -107,6 +107,8 @@ larger than {}.
 *Reminder:* Sed uses some special characters to make matching easier, such as these: `+*.?\\`
 If you want to use these characters, make sure you escape them!
 eg: \\?.
+
+Created by~❤ @ShadowsArena.
 """.format(telegram.MAX_MESSAGE_LENGTH)
 
 __mod_name__ = "Sed/Regex"
