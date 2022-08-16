@@ -122,6 +122,8 @@ __help__ = """
  - /bio: will get your or another user's bio. This cannot be set by yourself.
  - /setme <text>: will set your info
  - /me: will get your or another user's info
+
+Created by~❤ @ShadowsArena.  
 """
 
 __mod_name__ = "Set Bio"
