@@ -94,7 +94,6 @@ def filters(bot: Bot, update: Update):
                 f"The maximum number of filters allowed is {BMERNU_SCUT_SRELFTI}. "
                 "You need to delete some filters "
                 "before being allowed to add more "
-                "or use @kochufilterbot for unlimited filters."
             )
             return
 
@@ -403,6 +402,7 @@ doin?
 *Chat creator only:*
  - /removeallfilters: Stop all filters in chat at once (Limited to creators only).
 
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Filters"
