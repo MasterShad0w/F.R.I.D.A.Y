@@ -99,6 +99,8 @@ __help__ = """
 *Admin only:*
  - /setrules <your rules here>: set the rules for this chat.
  - /clearrules: clear the rules for this chat.
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Rules"
