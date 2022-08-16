@@ -278,6 +278,8 @@ done easily using the bot.
 
 An example of promoting someone to admins:
 `/promote @username`; this promotes a user to admins.
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Admin"
