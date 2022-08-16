@@ -131,6 +131,8 @@ NOTE: neither of these will get triggered if used by admins
  - /reports <on/off>: change report setting, or view current status.
    - If done in pm, toggles your status.
    - If in chat, toggles that chat's status.
+
+Created by~❤ @ShadowsArena.
 """
 
 REPORT_HANDLER = CommandHandler("report", report, filters=Filters.group)
