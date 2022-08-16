@@ -527,6 +527,7 @@ __help__ = """
  - /rmjoin <on/off>: when someone joins, try to delete the *user* joined the group message.
  - /welcomehelp: view more formatting information for custom welcome/goodbye messages.
 
+Created by~❤ @ShadowsArena.
 """.format(WELC_HELP_TXT)
 
 __mod_name__ = "Greetings"
