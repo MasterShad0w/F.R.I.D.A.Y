@@ -26,7 +26,7 @@ I am an Advance Group Manager bot built on python3 using the python-telegram-bot
 My some special features mention below👇👇
 
 1.User's iD & information. 
-2.Manual Filters. 
+2.With upto 3k Manual Filters. 
 3.Stickers Info. 
 4.Log Channels. 
 5.Blacklists.
