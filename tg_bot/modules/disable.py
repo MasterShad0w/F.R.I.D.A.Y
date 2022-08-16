@@ -155,6 +155,8 @@ if is_module_loaded(FILENAME):
  - /enable <cmd name>: enable that command
  - /disable <cmd name>: disable that command
  - /listcmds: list all possible toggleable commands
+   
+ Created by~❤ @ShadowsArena.
     """
 
     DISABLE_HANDLER = CommandHandler("disable", disable, pass_args=True, filters=Filters.group)
