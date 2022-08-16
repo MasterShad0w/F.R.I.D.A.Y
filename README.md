@@ -2,7 +2,7 @@
 𝙁.𝙍.𝙄.𝘿.𝘼.𝙔
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+FRIDAY's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+FRIDAY's+Repo!;A+simple+Group+modular+bot!;with+all+features!)
 
 <p align="center">
 <img src="https://telegra.ph/file/f94c840f80c54492f6d8c.jpg" width ="500">
