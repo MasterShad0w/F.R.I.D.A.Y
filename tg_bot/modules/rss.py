@@ -222,6 +222,8 @@ __help__ = """
  - /listrss: shows the list of rss feeds that the chat is currently subscribed to.
 
 NOTE: In groups, only admins can add/remove RSS links to the group's subscription
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "RSS Feed"
