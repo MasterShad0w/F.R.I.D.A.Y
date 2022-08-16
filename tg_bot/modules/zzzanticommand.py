@@ -68,6 +68,8 @@ def rem_slash_commands(bot: Bot, update: Update) -> str:
 __help__ = """
 I remove messages starting with a /command in groups and supergroups.
 - /rmcmd <on/off>: when someone tries to send a @BlueTextBot message, I will try to delete that!
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "anticommand"
