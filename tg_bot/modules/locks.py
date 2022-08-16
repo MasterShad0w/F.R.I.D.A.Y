@@ -301,6 +301,8 @@ eg:
 Locking urls will auto-delete all messages with urls, locking stickers will delete all \
 stickers, etc.
 Locking bots will stop non-admins from adding bots to the chat.
+
+Created by~❤ @ShadowsArena.
 """
 
 __mod_name__ = "Locks"
